@@ -9,11 +9,11 @@
     <h1>Exercice 4 Partie 1</h1>
 
     <?php 
-    $string = "Hello You";
+    $string = 'Hello You';
     $int = 30;
     $float = 18.25;
     $bool = true;
-    echo ($string . " " . $int . " " . $float . " " . $bool);
+    echo ($string . ' ' . $int . ' ' . $float . ' ' . $bool);
     ?>
 
 </body>
